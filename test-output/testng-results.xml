@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-02T19:30:01 EET" name="Default suite" finished-at="2023-12-02T19:30:07 EET" duration-ms="6374">
+    <groups>
+    </groups>
+    <test started-at="2023-12-02T19:30:01 EET" name="Default test" finished-at="2023-12-02T19:30:07 EET" duration-ms="6374">
+      <class name="testCases.lesson10">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:testCases.lesson10@6d6bc158]" started-at="2023-12-02T19:30:01 EET" name="mySetup" finished-at="2023-12-02T19:30:03 EET" duration-ms="2243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="LoginTest()[pri:0, instance:testCases.lesson10@6d6bc158]" started-at="2023-12-02T19:30:03 EET" name="LoginTest" finished-at="2023-12-02T19:30:04 EET" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="tst()[pri:0, instance:testCases.lesson10@6d6bc158]" started-at="2023-12-02T19:30:04 EET" name="tst" finished-at="2023-12-02T19:30:04 EET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tst -->
+        <test-method is-config="true" signature="AftermyTest()[pri:0, instance:testCases.lesson10@6d6bc158]" started-at="2023-12-02T19:30:04 EET" name="AftermyTest" finished-at="2023-12-02T19:30:07 EET" duration-ms="3242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftermyTest -->
+      </class> <!-- testCases.lesson10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
